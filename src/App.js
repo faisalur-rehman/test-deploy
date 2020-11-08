@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn Deployment
+          Learn How to deploy
         </a>
       </header>
     </div>
